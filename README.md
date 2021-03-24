@@ -6,3 +6,15 @@ This is a video demo of the user interface design of our COVID-19 navigation web
 
 
 The video only demonstrates the walking navigation routes. However, the team has also added a transit navigation option, and is working on finalizing the tool for the final Capstone showcase in May. 
+
+Web-app opening UI
+![image](https://user-images.githubusercontent.com/26075877/112372489-d52b8f80-8d1a-11eb-892f-86c8ff9a10bb.png)
+
+
+Walking Navigation UI
+![image](https://user-images.githubusercontent.com/26075877/112372593-f5f3e500-8d1a-11eb-8c95-2e84099b0a2f.png)
+
+
+Transit Navigation UI
+![image](https://user-images.githubusercontent.com/26075877/112372214-79610680-8d1a-11eb-9fc7-57bcb70b99cc.png)
+
